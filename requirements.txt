@@ -1,0 +1,9 @@
+python-dotenv
+openai
+langchain
+tiktoken
+pandas
+docarray
+duckduckgo-search
+wikipedia
+DateTime
